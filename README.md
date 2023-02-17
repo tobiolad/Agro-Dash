@@ -2,4 +2,4 @@
 
 Farmer's Profile Visualization
 
-<img width="1440" alt="Screenshot 2023-02-17 at 2 06 37 AM" src="https://user-images.githubusercontent.com/84006820/219524226-9e6685ab-9e28-4e8b-bdfa-4dbb93a9d52d.png">
+![9A1F2B07-8482-482E-9A7E-8B254E9B400E_1_201_a](https://user-images.githubusercontent.com/84006820/219524417-37100116-c9ff-4edb-bbde-c27d69db1426.jpeg)
